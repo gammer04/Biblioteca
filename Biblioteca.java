@@ -5,11 +5,11 @@
 package gestionbibloteca;
 
 import java.util.ArrayList;
-import java.util.Scanner;
+
 
 /**
- *
- * @author USER
+ *@descripcion desarrollos de los metodos elminar,agregar,buscar,mostrar
+ * @author Jorge
  */
 public class Biblioteca {
 

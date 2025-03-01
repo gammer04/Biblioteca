@@ -6,7 +6,7 @@ package gestionbibloteca;
 
 /**
  * @descripcion esta clase se encuentra lo que es el titulo, autor, ISBN
- * @author USER
+ * @author Jorge
  */
 public class Libro {
 

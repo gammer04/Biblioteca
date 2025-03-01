@@ -7,8 +7,8 @@ package gestionbibloteca;
 import java.util.Scanner;
 
 /**
- *
- * @author USER
+ *@descripcion se muestra la opciones de los metodos.
+ * @author Jorge
  */
 public class GestionBibloteca {
 
